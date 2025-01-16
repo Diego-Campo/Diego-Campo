@@ -20,7 +20,7 @@
 <a href="https://github.com/Diego-Campo/Pagina_de_Registro.git" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Diego-Campo/Pagina_de_Registro.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Codigo-purple?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>"Desarrollo de una página de registro interactiva y funcional que permite a los usuarios crear cuentas de manera rápida y segura. El proyecto incluye validación de formularios, almacenamiento de datos en una base de datos y diseño responsivo para una experiencia de usuario óptima en diferentes dispositivos.".</p>
