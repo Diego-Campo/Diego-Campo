@@ -15,15 +15,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Pagina de inicio de sesión</h3>
+<h3 align="center">Login page</h3>
 <div align="center">
-<a href="https://github.com/Diego-Campo/Pagina_de_Registro.git" target="_blank"><img src="https://i.imgur.com/IoIFRMn.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Diego-Campo/Pagina_de_Registro.git" target="_blank"><img src="https://i.imgur.com/IoIFRMn.png" width="400" alt="Login page"></a>
 <p>
 <a href="https://github.com/Diego-Campo/Pagina_de_Registro.git" target="_blank">
 <img src="https://img.shields.io/badge/Codigo-purple?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>"Desarrollo de una página de registro interactiva y funcional que permite a los usuarios crear cuentas de manera rápida y segura. El proyecto incluye validación de formularios, almacenamiento de datos en una base de datos y diseño responsivo para una experiencia de usuario óptima en diferentes dispositivos.".</p>
+<p>Development of an interactive and functional registration page that allows users to create accounts quickly and securely. The project includes form validation, data storage in a database and responsive design for optimal user experience on different devices.</p>
 </div>
                                                                                       
 </td>
