@@ -65,14 +65,12 @@
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
-<p align="center">
   <a href="https://profile-summary-for-github.herokuapp.com/user/ashu-guo" target="_blank">
     <img align="center" alt="ashu-guo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
+  </a>
 
-  <a href="mailto:guochengli1997@gmail.com" >
-    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-<p>
+  <a href="campoviverodiego@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 </div>
