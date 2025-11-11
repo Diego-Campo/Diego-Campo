@@ -6,9 +6,9 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 💻 Web developer
+- 🟢 Python developer
 - 🟢 Database Analyst
-- 🟢 Animation student ed
+- 🟢 Systems engineer student
 <br>
 
 ## Proyectos *bombitas*
