@@ -1,17 +1,18 @@
 <div align="center">
-<h1 align="center">Hola, soy Diego Campo👋</h1>
+<h1 align="center">Hello, I am Diego Campo👋</h1>
 </div>
 <img src="https://i.imgur.com/jf0ab0R.png">
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- ⭐ Github Star ⭐
+- 🟢 C# developer 
 - 🟢 Python developer
 - 🟢 Database Analyst
 - 🟢 Systems engineer student
 <br>
 
-## Proyectos *bombitas*
+## *projects*
 <table>
 <tr>
 <td width="50%">
